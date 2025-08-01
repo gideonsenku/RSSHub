@@ -1,7 +1,8 @@
 import type { Namespace } from '@/types';
 
 export const namespace: Namespace = {
-    name: 'Kemono',
-    url: 'kemono.cr',
+    name: 'Capitalmind',
+    url: 'capitalmind.in',
     lang: 'en',
+    categories: ['finance'],
 };
